@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simpleform/static/css/main.5d55cd70.chunk.css",
+    "main.js": "/simpleform/static/js/main.4243695f.chunk.js",
+    "main.js.map": "/simpleform/static/js/main.4243695f.chunk.js.map",
+    "runtime-main.js": "/simpleform/static/js/runtime-main.cb87cb95.js",
+    "runtime-main.js.map": "/simpleform/static/js/runtime-main.cb87cb95.js.map",
+    "static/js/2.003495a7.chunk.js": "/simpleform/static/js/2.003495a7.chunk.js",
+    "static/js/2.003495a7.chunk.js.map": "/simpleform/static/js/2.003495a7.chunk.js.map",
+    "index.html": "/simpleform/index.html",
+    "static/css/main.5d55cd70.chunk.css.map": "/simpleform/static/css/main.5d55cd70.chunk.css.map",
+    "static/js/2.003495a7.chunk.js.LICENSE.txt": "/simpleform/static/js/2.003495a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb87cb95.js",
+    "static/js/2.003495a7.chunk.js",
+    "static/css/main.5d55cd70.chunk.css",
+    "static/js/main.4243695f.chunk.js"
+  ]
+}
